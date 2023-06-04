@@ -1,0 +1,10 @@
+{
+  "name": "evmdis-as",
+  "version": "0.1.0",
+  "description": "EVM disassembler as an AssemblyScript library",
+  "main": "evmdis.ts",
+  "repository": "https://github.com/pintswap/evmdis-as",
+  "author": "pintswap",
+  "license": "MIT",
+  "private": false
+}
